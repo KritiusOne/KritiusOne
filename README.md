@@ -5,9 +5,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/juliorodriguezureche--/">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a target="_blank" href="https://www.instagram.com/rour10/">
-	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+
 
 <p> 
   Actualmente soy estudiante de ingeniería de sistemas y me encuentro en mi penultimo semestre academico, cuento 5 meses de experiencia como desarrollador. Actualmente me encuentro disponible para proyectos Freelance.
