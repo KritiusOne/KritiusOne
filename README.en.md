@@ -1,14 +1,14 @@
-<img src="Banner.png" alt="Banner de Julio Rodríguez" />
-<h1 align="center">¡Hola 👋! Soy Julio Rodríguez</h1>
-<h3 align="center">Full Stack Engineer | Front-end Engineer | Backend Engineer | Ingeniería de Sistemas | React | Node.js | Angular</h3>
+<img src="Banner.png" alt="Julio Rodríguez Banner" />
+<h1 align="center">Hi 👋! I'm Julio Rodríguez</h1>
+<h3 align="center">Full Stack Engineer | Front-end Engineer | Backend Engineer | Systems Engineering | React | Node.js | Angular</h3>
 
-## Contáctame
+## Contact Me
 <a target="_blank" href="https://www.linkedin.com/in/juliorodriguezureche--/">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <p> 
-  Ingeniero de sistemas con +1 año de experiencia en desarrollo web y mobile, apasionado por crear soluciones innovadoras y eficientes.
+  Systems engineer with +1 year of experience in web and mobile development, passionate about creating innovative and efficient solutions.
 </p>
 
 	
@@ -16,13 +16,13 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🎓 `Ingeniero` egresado del [Programa de Ingeniería de Sistemas](https://www.unimagdalena.edu.co/programa/ingenieriadesistemas) de la [Universidad del Magdalena](https://www.unimagdalena.edu.co/).
-- 🚀 Siempre `aprendiendo nuevas cosas`.
-- 💼 Actualmente abierto a nuevas `oportunidades de trabajo`.
-- 🌐 Visita [mi web](https://mi-portafolio-zeta-ten.vercel.app/).
+- 🎓 `Systems Engineer` graduated from the [Systems Engineering Program](https://www.unimagdalena.edu.co/programa/ingenieriadesistemas) at [Universidad del Magdalena](https://www.unimagdalena.edu.co/).
+- 🚀 Always `learning new things`.
+- 💼 Currently open to new `job opportunities`.
+- 🌐 Visit [my website](https://mi-portafolio-zeta-ten.vercel.app/).
 <br>
 
-## Tecnologías
+## Technologies
 ### Front-end
 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
