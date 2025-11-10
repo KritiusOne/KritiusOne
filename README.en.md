@@ -1,4 +1,4 @@
-<img src="Banner.png" alt="Julio Rodríguez Banner" />
+<img src="banner.png" alt="Julio Rodríguez Banner" />
 <h1 align="center">Hi 👋! I'm Julio Rodríguez</h1>
 <h3 align="center">Full Stack Engineer | Front-end Engineer | Backend Engineer | Systems Engineering | React | Node.js | Angular</h3>
 
