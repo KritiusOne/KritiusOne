@@ -1,3 +1,12 @@
+<div align="right">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/Español-blue?style=for-the-badge" alt="Español"/>
+  </a>
+  <a href="README.en.md">
+    <img src="https://img.shields.io/badge/English-red?style=for-the-badge" alt="English"/>
+  </a>
+</div>
+
 <img src="banner.png" alt="Julio Rodríguez Banner" />
 <h1 align="center">Hi 👋! I'm Julio Rodríguez</h1>
 <h3 align="center">Full Stack Engineer | Front-end Engineer | Backend Engineer | Systems Engineering | React | Node.js | Angular</h3>
